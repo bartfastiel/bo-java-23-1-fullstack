@@ -9,11 +9,13 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>backend</artifactId>
+    <artifactId>bo-java-23-1-fullstack-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>backend</name>
-    <description>backend</description>
+    <name>bo-java-23-1-fullstack-backend</name>
+    <description>bo-java-23-1-fullstack-backend</description>
     <properties>
+        <sonar.organization>bartfastiel-github</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <java.version>17</java.version>
     </properties>
     <dependencies>
